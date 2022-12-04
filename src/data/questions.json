@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "In which decade was the American Institute of Electrical Engineers (AIEE) founded ? ",
+      "options": ["1850s","1880s","1930s","1950s"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 2,
+      "title": "What is part of a database that holds only one type of information?",
+      "options": ["Report","Field","Record","File"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 3,
+      "title": "'OS' computer abbreviation usually means ?",
+      "options": ["Order of Significance","Open Software","Operating System","Optical Sensor"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 4,
+      "title": "In which decade with the first transatlantic radio broadcast occur?",
+      "options": ["1850s","1860s","1870s","1900s"],
+      "correctOptionIndex": 4
+    },
+    {
+      "id": 5,
+      "title": "'.MOV' extension refers usually to what kind of file?",
+      "options": ["Image file","Animation/movie file","Audio file","MS Office document"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 6,
+      "title": "In which decade was the SPICE simulator introduced?",
+      "options": ["1950s","1960s","1970s","1980s"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 7,
+      "title": "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+      "options": ["Sound","Remote control","Color balance","High voltage"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 8,
+      "title": "Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+      "options": ["Flash","Flange","Fury","FRAM"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 9,
+      "title": "The purpose of choke in tube light is ?",
+      "options": ["To decrease the current","To increase the current","To decrease the voltage momentarily","To increase the voltage momentarily"],
+      "correctOptionIndex": 4
+    },
+    {
+      "id": 10,
+      "title": "'.MPG' extension refers usually to what kind of file?",
+      "options": ["WordPerfect Document file","MS Office document","Animation/movie file","Image file"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 11,
+      "title": "Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?",
+      "options": ["Alan Turing","Jeff Bezos","George Boole","Charles Babbage"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 12,
+      "title": "Who developed Yahoo?",
+      "options": ["Dennis Ritchie & Ken Thompson","David Filo & Jerry Yang","Vint Cerf & Robert Kahn","Steve Case & Jeff Bezos"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 13,
+      "title": "Made from a variety of materials, such as carbon, which inhibits the flow of current...?",
+      "options": ["Choke","Inductor","Resistor","Capacitor"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 14,
+      "title": "The most common format for a home video recorder is VHS. VHS stands for...?",
+      "options": ["Video Home System","Very high speed","Video horizontal standard","Voltage house standard"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 15,
+      "title": "What does VVVF stand for?",
+      "options": ["Variant Voltage Vile Frequency","Variable Velocity Variable Fun","Very Very Vicious Frequency","Variable Voltage Variable Frequency"],
+      "correctOptionIndex": 4
+    }
+  ]
