@@ -4,7 +4,7 @@ function JoinScreen ({start}) {
                     <h1 className="">Join Quiz</h1>
                     <p className="">Technological Question Test</p>
                     <div className="">
-                        <button onClick={start} className="btn btn-primary">Start</button>
+                        <button onClick={start} className="">Start</button>
                     </div>
         </section>
     )

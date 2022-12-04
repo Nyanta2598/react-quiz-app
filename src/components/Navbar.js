@@ -1,7 +1,9 @@
 function Navbar () {    
     return(
-        <nav className="navbar">
-          <div className="logo">Quiz App</div>
+        <nav className="navbar navbar-expand-md navbar-light bg-faded">
+          <ul className="navbar-nav mx-auto">
+            <div className="logo">Quiz App</div>
+          </ul>
         </nav>
     )
 }

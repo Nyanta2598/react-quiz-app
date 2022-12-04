@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 
+import Footer from "./components/Footer.js";
 import JoinScreen from "./components/JoinScreen.js";
 import Navbar from "./components/Navbar.js";
 import QuizScreen from "./components/QuizScreen.js";
@@ -20,6 +21,7 @@ function App() {
           )
         } 
       </div>
+      <Footer />
     </>
   )
 }
