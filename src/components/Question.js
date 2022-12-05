@@ -55,7 +55,7 @@ function Question({question,totalQuestion,currentQuestion,setAnswer}){
                 </div>
             </div>
             <div className="control">
-                <button onClick={gotoNextQuestion}>Next</button>
+                <button className="btn btn-dark shadow rounded" onClick={gotoNextQuestion}>Next</button>
             </div>
         </div>
     )
