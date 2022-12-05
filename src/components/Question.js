@@ -23,7 +23,8 @@ function Question({question,totalQuestion,currentQuestion,setAnswer}){
         },0);
         timer.current = setTimeout(gotoNextQuestion, 10 * 1000);
         return gotoNextQuestion;
-    },[question]);
+    // eslint-disable-next-line
+    },[question]); 
     return(
         <div className="question">
             <div className="progress-bar" ref={progressBar}></div>
